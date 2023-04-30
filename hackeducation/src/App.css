@@ -1,0 +1,48 @@
+.linked-list-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: sans-serif;
+  }
+  
+  .input-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .node-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+  }
+  
+  .node {
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+    padding: 10px;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+  }
+  
+  .arrow {
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+
+  .binary-tree-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: sans-serif;
+  }
+
+  .bubble-sort-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: sans-serif;
+  }
